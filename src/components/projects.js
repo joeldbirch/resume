@@ -1,4 +1,5 @@
-import React from 'react';
+import React from 'react'
+import Paras from './paras'
 
 const Projects = ({ data }) => (
   <section>
@@ -7,7 +8,9 @@ const Projects = ({ data }) => (
       <article className="my-5" key={item.name}>
         <h2 className="item-header">{item.name}</h2>
         <h3 className="item-sub">{item.company}</h3>
-        <p className="py-4 leading-relaxed tracking-wide">{item.description}</p>
+        <div className="py-6 leading-relaxed tracking-wide">
+          <Paras text={item.description}/>
+        </div>
         <div className="flex justify-end">
           <a
             className="btn btn-secondary"
@@ -21,6 +24,6 @@ const Projects = ({ data }) => (
       </article>
     ))}
   </section>
-);
+)
 
-export default Projects;
+export default Projects
