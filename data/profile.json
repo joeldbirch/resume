@@ -11,47 +11,35 @@
       "type": "percent",
       "subskills": [
         {
-          "name": "Architecture",
-          "percent": 89
+          "name": "UX Design",
+          "percent": 90
         },
         {
-          "name": "Mobile/Web App Development",
+          "name": "Graphic Design",
+          "percent": 90
+        },
+        {
+          "name": "Web Performance",
+          "percent": 90
+        },
+        {
+          "name": "eDM templates",
           "percent": 95
         },
         {
-          "name": "Product Management",
-          "percent": 85
+          "name": "Front-end web development",
+          "percent": 98
         },
         {
-          "name": "Project Management",
-          "percent": 92
+          "name": "Back-end web development",
+          "percent": 80
         },
         {
-          "name": "Game Development",
-          "percent": 70
+          "name": "Written Communication",
+          "percent": 90
         },
         {
-          "name": "Blockchain",
-          "percent": 85
-        },
-        {
-          "name": "Dev Ops",
-          "percent": 81
-        },
-        {
-          "name": "Backend Development",
-          "percent": 93
-        },
-        {
-          "name": "Data Science",
-          "percent": 65
-        },
-        {
-          "name": "Artificial Intelligence",
-          "percent": 70
-        },
-        {
-          "name": "UX",
+          "name": "Teaching",
           "percent": 80
         }
       ]
@@ -61,32 +49,44 @@
       "type": "percent",
       "subskills": [
         {
-          "name": "Javascript",
+          "name": "JavaScript",
           "percent": 96
         },
         {
-          "name": "Java",
-          "percent": 82
+          "name": "Ruby",
+          "percent": 25
         },
         {
-          "name": "Python",
+          "name": "PHP",
           "percent": 85
         },
         {
-          "name": "C#",
-          "percent": 74
+          "name": "HTML/WAI-ARIA",
+          "percent": 95
         },
         {
-          "name": "Solidity",
-          "percent": 85
+          "name": "CSS/BEM/Sass/PostCSS",
+          "percent": 99
         },
         {
-          "name": "Dart",
-          "percent": 75
+          "name": "Regular Expressions",
+          "percent": 65
         },
         {
-          "name": "Go",
+          "name": "Adobe ExtendScript",
+          "percent": 65
+        },
+        {
+          "name": "CLI/Zsh/Bash",
           "percent": 60
+        },
+        {
+          "name": "Twig/Pug/Blade/Handlebars",
+          "percent": 80
+        },
+        {
+          "name": "SVG",
+          "percent": 85
         }
       ]
     },
@@ -95,64 +95,55 @@
       "type": "tag",
       "subskills": [
         {
-          "name": "React"
+          "name": "React",
+          "percent": 80
         },
         {
-          "name": "Flutter"
+          "name": "Vue",
+          "percent": 90
         },
         {
-          "name": "React Native"
+          "name": "Angular",
+          "percent": 30
         },
         {
-          "name": "Vue"
+          "name": "Node/NPM",
+          "percent": 75
         },
         {
-          "name": "Spring"
+          "name": "Gatsby",
+          "percent": 75
         },
         {
-          "name": "Angular"
+          "name": "WordPress",
+          "percent": 95
         },
         {
-          "name": "Electron"
+          "name": "Laravel",
+          "percent": 65
         },
         {
-          "name": "Node"
+          "name": "Cypress Visual Testing",
+          "percent": 65
         },
         {
-          "name": "Flusk"
+          "name": "jQuery",
+          "percent": 98
         },
         {
-          "name": "Express"
+          "name": "Tailwind CSS",
+          "percent": 90
         },
         {
-          "name": "Koa"
+          "name": "Hucssley Utility CSS",
+          "percent": 96
         },
         {
-          "name": "Gatsby"
+          "name": "Timber LIbrary for WordPress"
         },
         {
-          "name": "Apollo"
-        },
-        {
-          "name": "Django"
-        },
-        {
-          "name": "Loopback"
-        },
-        {
-          "name": "Next"
-        },
-        {
-          "name": "Amplify"
-        },
-        {
-          "name": "Pixi"
-        },
-        {
-          "name": "Phaser"
-        },
-        {
-          "name": "Feathers"
+          "name": "NPM tasks/Gulp/Webpack",
+          "percent": 85
         }
       ]
     },
@@ -161,19 +152,16 @@
       "type": "tag",
       "subskills": [
         {
-          "name": "Docker"
+          "name": "Adobe Creative Suite",
+          "percent": 90
         },
         {
-          "name": "Jira"
+          "name": "Git Version Management",
+          "percent": 90
         },
         {
-          "name": "Unity"
-        },
-        {
-          "name": "Godot"
-        },
-        {
-          "name": "Google Analytics"
+          "name": "VS Code",
+          "percent": 80
         }
       ]
     },
@@ -182,24 +170,17 @@
       "type": "tag",
       "subskills": [
         {
-          "name": "Postgresql"
+          "name": "Firebase",
+          "percent": 50
         },
         {
-          "name": "Mongodb"
-        },
-        {
-          "name": "Parse"
-        },
-        {
-          "name": "Firebase"
-        },
-        {
-          "name": "Elastic Search"
+          "name": "MySql",
+          "percent": 50
         }
       ]
     }
   ],
-  "summary": "Originally a self-taught designer whose craving for new tools to master lead me full circle back to a childhood interest: coding. The web standards movement of the mid-2000s presented me with the perfect opportunity to meld my proven design chops with my rediscovered coding passion and to fill void that the death of the Flash platform left for design agencies attempting to create rich web experiences. I quickly took over all website development at the advertising agencies I freelanced at, which provided a steady stream of client websites to build with ever-increasing feature complexity. I loved the constant learning necessary to be able to provide, in effect, a turnkey digital solution for agencies that otherwise couldn't offer professional web services to their clients.\n\nIf I had to choose my most valuable and defining feature it would be my ability and drive to learn.\n\nMy very minor “internet fame” comes from developing the ubiquitous Superfish dropdown menu plugin during the early days of jQuery’s birth.",
+  "summary": "Originally a self-taught designer whose craving for new tools to master lead me full circle back to a childhood interest: coding. The web standards movement of the mid-2000s presented me with the perfect opportunity to meld my proven design chops with my rediscovered coding passion and to fill void that the death of the Flash platform left for design agencies attempting to create rich web experiences. I quickly took over all website development at the advertising agencies I freelanced at, which provided a steady stream of client websites to build with ever-increasing feature complexity.\n\nI live and thrive in the space between creative and technical minds, facilitating the smooth communication of ideas between the two groups. I love the constant learning necessary to be able to provide, in effect, a turnkey digital solution for agencies that otherwise couldn't offer professional web services to their clients.\n\nIf I had to choose my most valuable and defining feature it would be my ability and drive to learn. I recently learnt to ride a motorcycle, cut my own hair and complete the Rubix Cube in around 2 minutes (although admittedly not all in the same day). My very minor “internet fame” comes from developing the ubiquitous Superfish dropdown menu plugin during the early days of jQuery’s birth.",
   "education": [
     {
       "institution": "Middle East Technical University, Turkey",
@@ -216,18 +197,53 @@
   ],
   "experience": [
     {
-      "role": "Full Stack Developer",
+      "role": "Full Stack Web Developer",
       "company": "Joel Birch Design",
       "description": "Consultation and freelance contracts developing and maintaining WordPress/WooCommerce and Laravel websites for Balance Marketing. Websites for NT Tourism’s “Million Dollar Fish” competition, Ted’s Cameras, DAF ”Do the Math” campaign, Laurent Bakery, transactional email templates for Melbourne Airport Parking), ARL brands (Sportspower, Camping World, Compleat Angler and Nitro Rods).\n\nGatsby/React-based statically generated websites for Fortis Development Group based on mockups with precise grid-based design and “Headless” WordPress for CMS.\n\nContract Sass development for San Fransisco-based web app startup Applauze.\n\nContinued development of Open Source dropdown menu jQuery plugin “Superfish” and WordPress plugin NoFollowr.\n\nVueJS side projects.",
       "start": "02/2015",
       "end": ""
     },
     {
-      "role": "Full Stack Web Developer",
+      "role": "Full Stack/Front-end Web Developer",
       "company": "Grant Day James and Hubink (design and advertising agencies)",
-      "description": "Sole web developer for all GDJ and Hubink web clients. Designed, developed and maintained the high-traffic Hamish & Andy website for 7 years. Devised, designed and developed other major web properties for Australia Post, Strathcona Grammar School, Children First Foundation, Fendt, Massey Ferguson, Patagonia Australia, Great Golf Courses of Australia and Nike.\n\nUsing Agile and test-driven processes, I teamed with developers from ThoughtWorks to build “MyAdbox” web app, around which a separate business was formed and continues to thrive today (see myadbox.com). I designed and developed the user-facing interface for (initially) Volkswagen dealerships to use, allowing them to quickly create and publish print advertisements from adaptive InDesign templates which I created to match their style guide specifications, regardless of the media space it filled. I handled all UI design and front-end development in addition to researching and implementing the InDesign Server scripting engine that formed the heart of the functionality.",
+      "description": "Sole web developer for all GDJ and Hubink web clients. Designed, developed and maintained the high-traffic Hamish & Andy website for 7 years. Devised, designed and developed other major web properties for Australia Post, Strathcona Grammar School, Children First Foundation, Fendt, Massey Ferguson, Patagonia Australia, Great Golf Courses of Australia and Nike. The original version of Premier's Active April website, being a government website, demanded conformance with strict accessibility standards.\n\nUsing Agile and test-driven processes, I teamed with developers from ThoughtWorks to build “MyAdbox” web app, around which a separate business was formed and continues to thrive today (see myadbox.com). I designed and developed the user-facing interface for (initially) Volkswagen dealerships to use, allowing them to quickly create and publish print advertisements from adaptive InDesign templates which I created to match their style guide specifications, regardless of the media space it filled. I handled all UI design and front-end development in addition to researching and implementing the InDesign Server scripting engine that formed the heart of the functionality.",
       "start": "01/2008",
       "end": "09/2014"
+    },
+    {
+      "role": "Graphic Designer",
+      "company": "Grant Day James",
+      "description": "Design branding, advertisements, and brochures for brands such as Mazda, Geelong Grammar, NZ Airlines, Paspaley Pearls. Included finished art and image retouching.",
+      "start": "04/2004",
+      "end": "02/2008"
+    },
+    {
+      "role": "Graphic Designer",
+      "company": "The Design Department",
+      "description": "The Design Department was a longtime and highly trusted fixture of the Melbourne design world. As a full-time freelance graphic designer it was my privilege to work with and learn from their amazing designers Leon Kustra and Trevor Abbott, in addition to legends of advertising such as Ted Horton and David Hobby. Annual Reports, branding, stationery, advertising and brochures for a long list of prestige brands.",
+      "start": "07/1997",
+      "end": "09/2003"
+    },
+    {
+      "role": "Art Director",
+      "company": "Singletons Advertising",
+      "description": "Worked closely with Creative Director Terry Cheverton to develop visual concepts and direct studio on further implementation. Main brands I worked on were Phillip Island Motorcycle Grand Prix, Crown Casino & Telstra.",
+      "start": "10/1998",
+      "end": "11/1998"
+    },
+    {
+      "role": "Graphic Designer",
+      "company": "Village Roadshow Exhibition",
+      "description": "Designed promotional materials for the Australia-wide Village Cinema chain. Mainly newspaper and and point-of-sale advertisements, snack bar packaging and posters, etc.",
+      "start": "03/1996",
+      "end": "05/1997"
+    },
+    {
+      "role": "Apprentice Compositor/Prepress",
+      "company": "Horse Deals Magazine",
+      "description": "Compositor and prepress preparation for print of black and white section of Horse Deals Magazine, which was a monthly publication. Dealt with customers, designed all b&w adverts, created impositions and preparation of files for web-offset printing.",
+      "start": "02/1995",
+      "end": "03/1996"
     }
   ],
   "social": [
@@ -243,10 +259,10 @@
   "role": "Web Developer & Designer",
   "projects": [
     {
-      "name": "Gatsby resume starter",
-      "company": "Open source",
-      "description": "Gatsby resume tailwind is a free starter template with  Netlify CMS implementation. It is easy to customize the design with thanks to tailwind theming capabilities. It uses git as a backend and can be deployed to any static hosting service like Netlify, firebase hosting or Github pages.",
-      "link": "https://github.com/barancezayirli/gatsby-resume-tailwind"
+      "name": "Superfish Dropdown Menu jQuery Plugin",
+      "company": "Open Source",
+      "description": "Superfish is an enhanced Suckerfish-style menu jQuery plugin that takes an existing pure CSS drop-down menu (so it degrades gracefully without JavaScript) and adds many much-sought-after enhancements to improve the user experience.\n\nIn 2006, dropdown menus were problematic as it was hard to get all the interaction details right without creating a usability nightmare. Flash had often handled such interactions prior to this, but the rise of web standards demanded a more accessible solution using HTML, CSS and JavaScript. I authored and maintained the Open Source plugin in order to provide a reliable cross-browser dropdown system supporting browsers from as early as Internet Explorer 5, right through to current browsers. This included a major rewrite as touch screens became ubiquitous.\n\nSuperfish was first released in 2007 to a tiny jQuery mailing list, many members of which became official jQuery team members. I would guess it to be one of the most commonly used dropdown plugins on the web, even doing service on the official White House website and Barack Obama's own website.\n\nWhile the plugin is still widely used, I no longer use the plugin myself as I find modern CSS capable of providing most, if not all of the features it provided.",
+      "link": "https://superfish.joelbirch.design/"
     }
   ],
   "fullname": "Joel Birch"
