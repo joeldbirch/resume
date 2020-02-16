@@ -11,22 +11,6 @@
       "type": "percent",
       "subskills": [
         {
-          "name": "UX Design",
-          "percent": 90
-        },
-        {
-          "name": "Graphic Design",
-          "percent": 90
-        },
-        {
-          "name": "Web Performance",
-          "percent": 90
-        },
-        {
-          "name": "eDM templates",
-          "percent": 95
-        },
-        {
           "name": "Front-end web development",
           "percent": 98
         },
@@ -35,12 +19,28 @@
           "percent": 80
         },
         {
+          "name": "UX Design",
+          "percent": 90
+        },
+        {
+          "name": "Graphic Design",
+          "percent": 90
+        },
+        {
+          "name": "eDM templates",
+          "percent": 95
+        },
+        {
           "name": "Written Communication",
           "percent": 90
         },
         {
           "name": "Teaching",
           "percent": 80
+        },
+        {
+          "name": "Test-Driven Development",
+          "percent": 65
         }
       ]
     },
@@ -49,24 +49,28 @@
       "type": "percent",
       "subskills": [
         {
-          "name": "JavaScript",
-          "percent": 96
-        },
-        {
-          "name": "Ruby",
-          "percent": 25
-        },
-        {
-          "name": "PHP",
-          "percent": 85
-        },
-        {
           "name": "HTML/WAI-ARIA",
           "percent": 95
         },
         {
           "name": "CSS/BEM/Sass/PostCSS",
           "percent": 99
+        },
+        {
+          "name": "JavaScript/EcmaScript",
+          "percent": 96
+        },
+        {
+          "name": "SVG",
+          "percent": 85
+        },
+        {
+          "name": "CLI/Zsh/Bash",
+          "percent": 60
+        },
+        {
+          "name": "PHP",
+          "percent": 85
         },
         {
           "name": "Regular Expressions",
@@ -77,16 +81,12 @@
           "percent": 65
         },
         {
-          "name": "CLI/Zsh/Bash",
-          "percent": 60
-        },
-        {
           "name": "Twig/Pug/Blade/Handlebars",
           "percent": 80
         },
         {
-          "name": "SVG",
-          "percent": 85
+          "name": "Ruby",
+          "percent": 25
         }
       ]
     },
@@ -119,8 +119,8 @@
           "percent": 95
         },
         {
-          "name": "Laravel",
-          "percent": 65
+          "name": "Laravel PHP Framework",
+          "percent": 70
         },
         {
           "name": "Cypress Visual Testing",
@@ -144,6 +144,10 @@
         {
           "name": "NPM tasks/Gulp/Webpack",
           "percent": 85
+        },
+        {
+          "name": "Ruby on Rails",
+          "percent": 50
         }
       ]
     },
@@ -199,7 +203,7 @@
     {
       "role": "Full Stack Web Developer",
       "company": "Joel Birch Design",
-      "description": "Consultation and freelance contracts developing and maintaining WordPress/WooCommerce and Laravel websites for Balance Marketing. Websites for NT Tourism’s “Million Dollar Fish” competition, Ted’s Cameras, DAF ”Do the Math” campaign, Laurent Bakery, AL‑KO, ARL brands: Sportspower, Camping World, Compleat Angler and Nitro Rods. Transactional email templates for Melbourne Airport Parking) and eDM templates for Yahoo Australia.\n\nGatsby/React-based statically generated websites for Fortis Development Group based on mockups with precise grid-based design and “headless” WordPress for CMS.\n\nContract Sass development for San Francisco-based web app startup Applauze.\n\nContinued development of Open Source dropdown menu jQuery plugin “Superfish” and WordPress plugin NoFollowr.\n\nVueJS side projects.",
+      "description": "Consultation and freelance contracts developing and maintaining WordPress/WooCommerce and Laravel websites for Balance Marketing. Websites for NT Tourism’s “Million Dollar Fish” competition, Ted’s Cameras, DAF ”Do the Math” campaign, Laurent Bakery, AL‑KO, ARL brands: Sportspower, Camping World, Compleat Angler and Nitro Rods. Transactional email templates for Melbourne Airport Parking) and eDM templates for Yahoo Australia.\n\nGatsby/React-based statically generated websites for Fortis Development Group based on mockups with precise grid-based design and “headless” WordPress for CMS.\n\nContract Sass development for San Francisco-based web app startup Applauze.\n\nContinued development of Open Source dropdown menu jQuery plugin “Superfish” and WordPress plugin “NoFollowr”.\n\nVueJS side projects.",
       "start": "02/2015",
       "end": ""
     },
@@ -263,6 +267,12 @@
       "company": "Open Source",
       "description": "Superfish is an enhanced Suckerfish-style menu jQuery plugin that takes an existing pure CSS drop-down menu (so it degrades gracefully without JavaScript) and adds many much-sought-after enhancements to improve the user experience.\n\nIn 2006, dropdown menus were problematic as it was hard to get all the interaction details right without creating a usability nightmare. Flash had often handled such interactions prior to this, but the rise of web standards demanded a more accessible solution using HTML, CSS and JavaScript. I authored and maintained the Open Source plugin in order to provide a reliable cross-browser dropdown system supporting browsers from as early as Internet Explorer 5, right through to current browsers. This included a major rewrite as touch screens became ubiquitous.\n\nSuperfish was first released in 2007 to a tiny jQuery mailing list, many members of which became official jQuery team members. I would guess it to be one of the most commonly used dropdown plugins on the web, even doing service on the official White House website and Barack Obama's own website.\n\nThe plugin is still widely used today, despite a malware product unfortunately deciding to use the same name! I no longer use the plugin myself as I find modern CSS capable of providing most, if not all of the features it provided.",
       "link": "https://superfish.joelbirch.design/"
+    },
+    {
+      "name": "BattleFX roleplaying battle effects tracker",
+      "company": "Side project",
+      "description": "This side project is a tool intended to be used during traditional table-top roleplaying games to remove the tedium and cognitive overhead of tracking effects and character turns during combat situations. Built with Vue JS and Realtime Firebase Database, styled with Tailwind CSS and designed on-the-fly in-browser, this was a deep dive into the more advanced aspects of building a Progressive Web App with Vue CLI. It features full offline support, expanded features for logged in users, individual user theming via CSS custom properties saved in localstorage, realtime data syncing between roleplayers, and SRD monster API integration for easy encounter creation.",
+      "link": "https://battlefx.joelbirch.design/"
     }
   ],
   "fullname": "Joel Birch"
