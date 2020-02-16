@@ -37,7 +37,7 @@
 }
 
 .tag {
-    @apply px-2 py-1 mr-2 mb-2 bg-primary-500 text-sm text-white inline-block capitalize font-light rounded;
+    @apply px-2 py-1 mr-2 mb-2 bg-primary-600 text-sm text-white inline-block capitalize font-light rounded;
 }
 
 .footer-social-link {
