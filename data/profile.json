@@ -11,22 +11,6 @@
       "type": "percent",
       "subskills": [
         {
-          "name": "UX Design",
-          "percent": 90
-        },
-        {
-          "name": "Graphic Design",
-          "percent": 90
-        },
-        {
-          "name": "Web Performance",
-          "percent": 90
-        },
-        {
-          "name": "eDM templates",
-          "percent": 95
-        },
-        {
           "name": "Front-end web development",
           "percent": 98
         },
@@ -35,12 +19,28 @@
           "percent": 80
         },
         {
+          "name": "UX Design",
+          "percent": 90
+        },
+        {
+          "name": "Graphic Design",
+          "percent": 90
+        },
+        {
+          "name": "eDM templates",
+          "percent": 95
+        },
+        {
           "name": "Written Communication",
           "percent": 90
         },
         {
           "name": "Teaching",
           "percent": 80
+        },
+        {
+          "name": "Test-Driven Development",
+          "percent": 65
         }
       ]
     },
@@ -49,24 +49,28 @@
       "type": "percent",
       "subskills": [
         {
-          "name": "JavaScript",
-          "percent": 96
-        },
-        {
-          "name": "Ruby",
-          "percent": 25
-        },
-        {
-          "name": "PHP",
-          "percent": 85
-        },
-        {
           "name": "HTML/WAI-ARIA",
           "percent": 95
         },
         {
           "name": "CSS/BEM/Sass/PostCSS",
           "percent": 99
+        },
+        {
+          "name": "JavaScript/EcmaScript",
+          "percent": 96
+        },
+        {
+          "name": "SVG",
+          "percent": 85
+        },
+        {
+          "name": "CLI/Zsh/Bash",
+          "percent": 60
+        },
+        {
+          "name": "PHP",
+          "percent": 85
         },
         {
           "name": "Regular Expressions",
@@ -77,16 +81,12 @@
           "percent": 65
         },
         {
-          "name": "CLI/Zsh/Bash",
-          "percent": 60
-        },
-        {
           "name": "Twig/Pug/Blade/Handlebars",
           "percent": 80
         },
         {
-          "name": "SVG",
-          "percent": 85
+          "name": "Ruby",
+          "percent": 25
         }
       ]
     },
@@ -119,8 +119,8 @@
           "percent": 95
         },
         {
-          "name": "Laravel",
-          "percent": 65
+          "name": "Laravel PHP Framework",
+          "percent": 70
         },
         {
           "name": "Cypress Visual Testing",
@@ -144,6 +144,10 @@
         {
           "name": "NPM tasks/Gulp/Webpack",
           "percent": 85
+        },
+        {
+          "name": "Ruby on Rails",
+          "percent": 50
         }
       ]
     },
