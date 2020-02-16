@@ -92,7 +92,7 @@
     },
     {
       "title": "Frameworks",
-      "type": "tag",
+      "type": "percent",
       "subskills": [
         {
           "name": "React",
