@@ -41,6 +41,10 @@
         {
           "name": "Test-Driven Development",
           "percent": 65
+        },
+        {
+          "name": "DNS and server management",
+          "percent": 80
         }
       ]
     },
