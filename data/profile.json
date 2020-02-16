@@ -199,7 +199,7 @@
       ]
     }
   ],
-  "summary": "I’m a self-taught designer whose craving for new tools to master lead me full circle to a childhood interest: coding. The web standards movement of the mid-2000s presented me with the perfect opportunity to meld my proven design chops with my rediscovered coding passion. I quickly took over all website development at the advertising agencies I freelanced at, which provided a steady stream of client websites to build with ever-increasing feature complexity. I loved the constant learning involved with the need to be, in effect, a turnkey digital solution for agencies that otherwise couldn't offer professional web services to their clients.\n\nIf I had to choose my most valuable and defining feature it would be my ability and drive to learn.\n\nMy very minor “internet fame” comes from developing the ubiquitous Superfish dropdown menu plugin during the early days of jQuery’s birth.",
+  "summary": "Originally a self-taught designer whose craving for new tools to master lead me full circle back to a childhood interest: coding. The web standards movement of the mid-2000s presented me with the perfect opportunity to meld my proven design chops with my rediscovered coding passion and to fill void that the death of the Flash platform left for design agencies attempting to create rich web experiences. I quickly took over all website development at the advertising agencies I freelanced at, which provided a steady stream of client websites to build with ever-increasing feature complexity. I loved the constant learning necessary to be able to provide, in effect, a turnkey digital solution for agencies that otherwise couldn't offer professional web services to their clients.\n\nIf I had to choose my most valuable and defining feature it would be my ability and drive to learn.\n\nMy very minor “internet fame” comes from developing the ubiquitous Superfish dropdown menu plugin during the early days of jQuery’s birth.",
   "education": [
     {
       "institution": "Middle East Technical University, Turkey",
@@ -219,50 +219,15 @@
       "role": "Full Stack Developer",
       "company": "Joel Birch Design",
       "description": "Consultation and freelance contracts developing and maintaining WordPress/WooCommerce and Laravel websites for Balance Marketing. Websites for NT Tourism’s “Million Dollar Fish” competition, Ted’s Cameras, DAF ”Do the Math” campaign, Laurent Bakery, transactional email templates for Melbourne Airport Parking), ARL brands (Sportspower, Camping World, Compleat Angler and Nitro Rods).\n\nGatsby/React-based statically generated websites for Fortis Development Group based on mockups with precise grid-based design and “Headless” WordPress for CMS.\n\nContract Sass development for San Fransisco-based web app startup Applauze.\n\nContinued development of Open Source dropdown menu jQuery plugin “Superfish” and WordPress plugin NoFollowr.\n\nVueJS side projects.",
-      "start": "08/2018",
-      "end": "08/2020"
+      "start": "02/2015",
+      "end": ""
     },
     {
-      "role": "Full Stack Tech Lead",
-      "company": "Malaeb Limited",
-      "description": "Malaeb is a group sports community and booking platform. I was managing all technical aspects of the product. I designed a new solution to improve the current platform, build and manage a new development team to migrate the new app. Implement better internal processes to increase productivity.",
-      "start": "11/2018",
-      "end": "09/2019"
-    },
-    {
-      "role": "Full Stack Tech Lead",
-      "company": "Solve Care",
-      "description": "Solve care is a healthcare blockchain platform. I was responsible for the client side development team and architecture of the platform. I was also active in product management team.",
-      "start": "04/2018",
-      "end": "11/2018"
-    },
-    {
-      "role": "Full Stack Lead Developer",
-      "company": "Applied Blockchain",
-      "description": "Applied Blockchain built blockchain applications for enterprises and startups. I built 4 full stack blockchain projects during my contract.",
-      "start": "10/2017",
-      "end": "04/2018"
-    },
-    {
-      "role": "Full Stack Lead Developer",
-      "company": "Dmapper",
-      "description": "Worked as a lead full-stack developer for Cortex which is B2B audit automation software for Deloitte. I was responsible for the architecture and development of the platform, managing development team.",
-      "start": "12/2016",
-      "end": "10/2017"
-    },
-    {
-      "role": "Front End Developer - UI/UX Designer",
-      "company": "GovRight",
-      "description": "GovRight provides citizens the opportunity to understand and contribute to government and legislation. I was responsible for the UX and development of admin interface for the platform.",
-      "start": "11/2015",
-      "end": "04/2016"
-    },
-    {
-      "role": "Full Stack Developer",
-      "company": "Freelance",
-      "description": "In the first years of my career, I had the privilege to work with many startups and building my own games and applications.",
-      "start": "04/2008",
-      "end": "01/2016"
+      "role": "Full Stack Web Developer",
+      "company": "Grant Day James and Hubink (design and advertising agencies)",
+      "description": "Sole web developer for all GDJ and Hubink web clients. Designed, developed and maintained the high-traffic Hamish & Andy website for 7 years. Devised, designed and developed other major web properties for Australia Post, Strathcona Grammar School, Children First Foundation, Fendt, Massey Ferguson, Patagonia Australia, Great Golf Courses of Australia and Nike.\n\nUsing Agile and test-driven processes, I teamed with developers from ThoughtWorks to build “MyAdbox” web app, around which a separate business was formed and continues to thrive today (see myadbox.com). I designed and developed the user-facing interface for (initially) Volkswagen dealerships to use, allowing them to quickly create and publish print advertisements from adaptive InDesign templates which I created to match their style guide specifications, regardless of the media space it filled. I handled all UI design and front-end development in addition to researching and implementing the InDesign Server scripting engine that formed the heart of the functionality.",
+      "start": "01/2008",
+      "end": "09/2014"
     }
   ],
   "social": [
