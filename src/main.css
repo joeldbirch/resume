@@ -52,4 +52,11 @@
     @apply h-6 fill-current;
 }
 
+.has-links a {
+  text-decoration: underline;
+}
+.has-links a:hover {
+  text-decoration: none;
+}
+
 @tailwind utilities;

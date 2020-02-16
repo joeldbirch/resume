@@ -5,7 +5,10 @@ export default ({text=``}) => {
 
   return paras.map((para, index) => (
     <p
-      className={`${index===0 ? `` : `mt-6`}`}
+      className={`
+        has-links
+        ${index===0 ? `` : `mt-6`}
+      `}
       dangerouslySetInnerHTML={{__html: para}}
     />
   ))
