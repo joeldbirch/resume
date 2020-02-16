@@ -199,7 +199,7 @@
       ]
     }
   ],
-  "summary": "Highly focused technologist with a multidisciplinary skill set honed over 10+ years in the IT industry. I strive to build great products and can take an initial idea, tackle it from multiple angles and take it from something great to something incredible. With 10+ years of experience in various industries, I help tech startups from idea phase to high volumes. I design and build scalable solutions, implement internal processes that fit your organization, build teams that produce results.",
+  "summary": "I’m a self-taught designer whose craving for new tools to master lead me full circle to a childhood interest: coding. The web standards movement of the mid-2000s presented me with the perfect opportunity to meld my proven design chops with my rediscovered coding passion. I quickly took over all website development at the advertising agencies I freelanced at, which provided a steady stream of client websites to build with ever-increasing feature complexity. I loved the constant learning involved with the need to be, in effect, a turnkey digital solution for agencies that otherwise couldn't offer professional web services to their clients.\n\nIf I had to choose my most valuable and defining feature it would be my ability and drive to learn.\n\nMy very minor “internet fame” comes from developing the ubiquitous Superfish dropdown menu plugin during the early days of jQuery’s birth.",
   "education": [
     {
       "institution": "Middle East Technical University, Turkey",
@@ -267,35 +267,15 @@
   ],
   "social": [
     {
-      "service": "youtube",
-      "url": "https://www.youtube.com/channel/UCczRc31u_YXNiSpYKxQU_Ug"
-    },
-    {
-      "service": "linkedin",
-      "url": "https://www.linkedin.com/in/barancezayirli"
-    },
-    {
       "service": "twitter",
-      "url": "https://twitter.com/barancezayirli"
-    },
-    {
-      "service": "angellist",
-      "url": "https://angel.co/baran-cezayirli"
+      "url": "https://twitter.com/joel_birch"
     },
     {
       "service": "github",
-      "url": "https://github.com/barancezayirli"
-    },
-    {
-      "service": "facebook",
-      "url": "https://www.facebook.com/barancezayirli"
-    },
-    {
-      "service": "instagram",
-      "url": "https://www.instagram.com/barancezayirli"
+      "url": "https://github.com/joeldbirch"
     }
   ],
-  "role": "Technologist",
+  "role": "Web Developer & Designer",
   "projects": [
     {
       "name": "Gatsby resume starter",
@@ -304,5 +284,5 @@
       "link": "https://github.com/barancezayirli/gatsby-resume-tailwind"
     }
   ],
-  "fullname": "Baran Cezayirli"
+  "fullname": "Joel Birch"
 }
