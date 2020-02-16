@@ -19,7 +19,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Joel Birch | Web Developer`,
-        short_name: `CV`,
+        short_name: `Joel`,
         start_url: `/`,
         background_color: `#f7f0eb`,
         theme_color: `#38B2AC`,
