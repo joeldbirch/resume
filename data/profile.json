@@ -216,11 +216,11 @@
   ],
   "experience": [
     {
-      "role": "Consultant",
-      "company": "Baran Cezayirli Consulting",
-      "description": "I consult startups to take their concept to the next level.",
+      "role": "Full Stack Developer",
+      "company": "Joel Birch Design",
+      "description": "Consultation and freelance contracts developing and maintaining WordPress/WooCommerce and Laravel websites for Balance Marketing. Websites for NT Tourism’s “Million Dollar Fish” competition, Ted’s Cameras, DAF ”Do the Math” campaign, Laurent Bakery, transactional email templates for Melbourne Airport Parking), ARL brands (Sportspower, Camping World, Compleat Angler and Nitro Rods).\n\nGatsby/React-based statically generated websites for Fortis Development Group based on mockups with precise grid-based design and “Headless” WordPress for CMS.\n\nContract Sass development for San Fransisco-based web app startup Applauze.\n\nContinued development of Open Source dropdown menu jQuery plugin “Superfish” and WordPress plugin NoFollowr.\n\nVueJS side projects.",
       "start": "08/2018",
-      "end": ""
+      "end": "08/2020"
     },
     {
       "role": "Full Stack Tech Lead",
