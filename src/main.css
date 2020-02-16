@@ -29,11 +29,11 @@
 }
 
 .item-header {
-    @apply text-xl font-bold tracking-tight leading-relaxed text-neutral-700;
+    @apply text-xl font-bold leading-relaxed text-neutral-700;
 }
 
 .item-sub {
-    @apply text-neutral-600 tracking-wide text-sm;
+    @apply text-neutral-700 tracking-wide text-sm;
 }
 
 .tag {
