@@ -85,6 +85,10 @@
           "percent": 80
         },
         {
+          "name": "TDD with Jest, Jasmine, etc",
+          "percent": 70
+        },
+        {
           "name": "Ruby",
           "percent": 25
         }
@@ -111,7 +115,7 @@
           "percent": 75
         },
         {
-          "name": "Gatsby",
+          "name": "Gatsby static site generator",
           "percent": 75
         },
         {
@@ -139,7 +143,7 @@
           "percent": 96
         },
         {
-          "name": "Timber LIbrary for WordPress"
+          "name": "Timber Library for WordPress"
         },
         {
           "name": "NPM tasks/Gulp/Webpack",
@@ -166,6 +170,12 @@
         {
           "name": "VS Code",
           "percent": 80
+        },
+        {
+          "name": "Netlify CLI"
+        },
+        {
+          "name": "SpinupWP"
         }
       ]
     },
@@ -193,7 +203,7 @@
       "end": "1992"
     },
     {
-      "institution": "Self-taught",
+      "institution": "Curiosity",
       "degree": "Ongoing",
       "start": "1974",
       "end": ""
@@ -217,7 +227,7 @@
     {
       "role": "Graphic Designer",
       "company": "Grant Day James",
-      "description": "Design, and finished art/image retouching for branding, advertisements, and brochures for brands such as Mazda, Geelong Grammar, NZ Airlines. Designed, completed finished art and project managed Paspaley Pearls' prestigious annual catalogue.",
+      "description": "Design, and finished art/image retouching for branding, advertisements, and brochures for brands such as Mazda, Geelong Grammar, NZ Airlines. Designed, completed finished art and project managed Paspaley Pearls‘ prestigious annual catalogue.",
       "start": "04/2004",
       "end": "02/2008"
     },
