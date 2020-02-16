@@ -1,4 +1,5 @@
-import React from 'react';
+import React from 'react'
+import Paras from './paras'
 
 const Experience = ({ data }) => (
   <section>
@@ -10,10 +11,12 @@ const Experience = ({ data }) => (
           <h3 className="item-sub">
             {item.company} | {item.start} - {item.end || 'PRESENT'}
           </h3>
-          <p className="py-6 leading-relaxed tracking-wide">{item.description}</p>
+          <div className="py-6 leading-relaxed tracking-wide">
+            <Paras text={item.description}/>
+          </div>
         </article>
       ))}
   </section>
-);
+)
 
-export default Experience;
+export default Experience

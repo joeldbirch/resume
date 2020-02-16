@@ -16,7 +16,7 @@ const Summary = ({ data }) => {
         />
       </div>
       <p className="tracking-wide leading-relaxed lg:mx-8 lg:text-lg">
-        {paras?.map(para => <p className="my-4">{para}</p>)}
+        {paras?.map(para => <p className="my-6">{para}</p>)}
       </p>
     </section>
   )
