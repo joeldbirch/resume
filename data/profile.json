@@ -277,6 +277,12 @@
   "role": "Web Developer & Designer",
   "projects": [
     {
+      "name": "Ode of Toorak",
+      "company": "Fortis Development Group",
+      "description": "Fortis Development Group contacted me initially to create a responsive, animated landing page for their planned website for their <a href=\"https://bowersouthyarra.com.au/\">South Yarra property development project called “Bower”</a> Having exceeded expectations on that, Fortis asked me to continue with the rest of that website, in addition to another one for their “<a href=\"https://odeoftoorak.com.au/\">Ode of Toorak</a>” development. Designed by the brilliant Graziela Machado, strict adherence to a dynamic, responsive grid layout and exacting attention to typographic detail were mandatory to honour the brand and pay homage to the nature of the properties themselves. Built from scratch using Gatsby JS, deployed to Netlify CDN, and styled with my favourite utility library, <a href=\"https://github.com/stowball/hucssley\">Hucssley</a> (still in beta), it features background video, lazy-loading images, and the enquiry forms integrate with the client‘s HubSpot CRM.",
+      "link": "https://odeoftoorak.com.au/"
+    },
+    {
       "name": "Superfish Dropdown Menu jQuery Plugin",
       "company": "Open Source",
       "description": "Superfish is an enhanced Suckerfish-style menu jQuery plugin that takes an existing pure CSS drop-down menu (so it degrades gracefully without JavaScript) and adds many much-sought-after enhancements to improve the user experience.\n\nIn 2006, dropdown menus were problematic as it was hard to get all the interaction details right without creating a usability nightmare. Flash had often handled such interactions prior to this, but the rise of web standards demanded a more accessible solution using HTML, CSS and JavaScript. I authored and maintained the Open Source plugin in order to provide a reliable cross-browser dropdown system supporting browsers from as early as Internet Explorer 5, right through to current browsers. This included a major rewrite as touch screens became ubiquitous.\n\nSuperfish was first released in 2007 to a tiny jQuery mailing list, many members of which became official jQuery team members. I would guess it to be one of the most commonly used dropdown plugins on the web, even doing service on the official White House website and Barack Obama's own website.\n\nThe plugin is still widely used today, despite a malware product unfortunately deciding to use the same name! I no longer use the plugin myself as I find modern CSS capable of providing most, if not all of the features it provided.",
@@ -287,12 +293,6 @@
       "company": "Side project",
       "description": "This side project is a tool intended to be used during traditional table-top roleplaying games to remove the tedium and cognitive overhead of tracking effects and character turns during combat situations. Built with Vue JS and Realtime Firebase Database, styled with Tailwind CSS and designed on-the-fly in-browser, this was a deep dive into the more advanced aspects of building a Progressive Web App with Vue CLI. It features full offline support, expanded features for logged in users, individual user theming via CSS custom properties saved in localstorage, realtime data syncing between roleplayers, and SRD monster API integration for easy encounter creation.",
       "link": "https://battlefx.joelbirch.design/"
-    },
-    {
-      "name": "Ode of Toorak",
-      "company": "Fortis Development Group",
-      "description": "Fortis Development Group contacted me initially to create a responsive, animated landing page for their planned website for their <a href=\"https://bowersouthyarra.com.au/\">South Yarra property development project called “Bower”</a> Having exceeded expectations on that, Fortis asked me to continue with the rest of that website, in addition to another one for their “<a href=\"https://odeoftoorak.com.au/\">Ode of Toorak</a>” development. Designed by the brilliant Graziela Machado, strict adherence to a dynamic, responsive grid layout and exacting attention to typographic detail were mandatory to honour the brand and pay homage to the nature of the properties themselves. Built from scratch using Gatsby JS, deployed to Netlify CDN, and styled with my favourite utility library, <a href=\"https://github.com/stowball/hucssley\">Hucssley</a> (still in beta), it features background video, lazy-loading images, and the enquiry forms integrate with the client‘s HubSpot CRM.",
-      "link": "https://odeoftoorak.com.au/"
     }
   ],
   "fullname": "Joel Birch"
